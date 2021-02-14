@@ -1,2 +1,2 @@
 # dynamic-e-com-website
-this is fully dynamic website
+This is fully dynamic website
